@@ -1,1 +1,2 @@
-class Dogend
+class Dog
+end
